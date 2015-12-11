@@ -13,7 +13,7 @@ namespace ImgTec.Data.Entities
         public String Description { get; set; }
         public CasePriority CasePriority { get; set; }
         public String AgentReply { get; set; }
-        public User Customer { get; set; }
-        public User AssignedAgent { get; set; }
+        public virtual User Customer { get; set; }
+        public virtual User Agent { get; set; }
     }
 }

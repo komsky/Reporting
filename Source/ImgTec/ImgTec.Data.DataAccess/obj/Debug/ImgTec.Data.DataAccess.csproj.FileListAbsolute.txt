@@ -10,3 +10,7 @@ E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.SqlS
 E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.csprojResolveAssemblyReference.cache
 E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.dll
 E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.pdb
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

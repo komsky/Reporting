@@ -3,3 +3,12 @@ E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\ImgTec.Data.Entities.p
 E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.csprojResolveAssemblyReference.cache
 E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.dll
 E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.pdb
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\ImgTec.Data.Entities.dll.config
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.xml
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
