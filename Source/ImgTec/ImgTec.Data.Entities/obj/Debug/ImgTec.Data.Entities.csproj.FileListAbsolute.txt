@@ -1,0 +1,5 @@
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\ImgTec.Data.Entities.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\ImgTec.Data.Entities.pdb
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.csprojResolveAssemblyReference.cache
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.pdb

@@ -1,0 +1,5 @@
+E:\Reporting\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Domain.dll
+E:\Reporting\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Domain.pdb
+E:\Reporting\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.csprojResolveAssemblyReference.cache
+E:\Reporting\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.dll
+E:\Reporting\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.pdb

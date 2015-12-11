@@ -1,0 +1,12 @@
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.DataAccess.dll.config
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.DataAccess.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.DataAccess.pdb
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.Entities.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.Entities.pdb
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.xml
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.csprojResolveAssemblyReference.cache
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.dll
+E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.pdb
