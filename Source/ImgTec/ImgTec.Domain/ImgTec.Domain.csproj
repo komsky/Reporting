@@ -60,6 +60,8 @@
     <Compile Include="Handlers\IBaseHandler.cs" />
     <Compile Include="Handlers\IUserHandler.cs" />
     <Compile Include="Handlers\UserHandler.cs" />
+    <Compile Include="Models\CaseDomain.cs" />
+    <Compile Include="Models\UserDomain.cs" />
     <Compile Include="Integrations\Identity\IdentityUserStore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
