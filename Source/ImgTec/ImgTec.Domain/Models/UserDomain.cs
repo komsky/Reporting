@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.AspNet.Identity;
 
 namespace ImgTec.Domain.Models
 {
@@ -14,5 +15,7 @@ namespace ImgTec.Domain.Models
 
     public class BaseIdentityUser : IUser<String>
     {
+        public string Id { get; private set; }
+        public string UserName { get; set; }
     }
 }

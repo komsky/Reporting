@@ -1,9 +1,10 @@
 ﻿using System.Data.Entity;
 using ImgTec.Data.Entities;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace ImgTec.Data.DataAccess
 {
-    public class ImgTecDbContext : DbContext
+    public class ImgTecDbContext : IdentityDbContext<User>
     {
         #region Properties
         public DbSet<Case> Cases { get; set; }

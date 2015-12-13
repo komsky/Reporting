@@ -1,0 +1,93 @@
+﻿@using Microsoft.AspNet.Identity
+@model IEnumerable<ImgTec.Web.Models.Case>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Owner
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CaseState)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CasePriority)
+        </th>
+        <th>
+            Assigned agent
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgentReply)
+        </th>
+        @if (User.IsInRole("Agents"))
+        {
+            <th>Actions</th>
+        }
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CaseState)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CasePriority)
+            </td>
+            <td>
+                @if (item.Agent == null)
+                {
+                    <i>Awaits for assignment...</i>
+                }
+                else
+                {
+                    @Html.DisplayFor(modelItem => item.Agent.UserName)
+                }
+            </td>
+            <td>
+                @if (String.IsNullOrEmpty(item.AgentReply))
+                {
+                    <i>Awaits for reply...</i>
+                }
+                else
+                {
+                    @Html.DisplayFor(modelItem => item.AgentReply)
+                }
+            </td>
+            @if (User.IsInRole("Agents"))
+            {
+                <th>
+                    @if (item.Agent.Id != User.Identity.GetUserId())
+                    {
+                        @Html.ActionLink("Assign to me", MVC.Cases.ActionNames.Assign, new {id = item.Id}) <span>|</span>
+                    }
+                    @Html.ActionLink("Reply", MVC.Cases.ActionNames.Edit, new { id = item.Id })
+                </th>
+            }
+        </tr>
+    }
+
+</table>

@@ -3,3 +3,21 @@ E:\Reporting\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Domain.pdb
 E:\Reporting\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.csprojResolveAssemblyReference.cache
 E:\Reporting\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.dll
 E:\Reporting\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.csprojResolveAssemblyReference.cache
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Domain.dll.config
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Domain.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Domain.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Data.DataAccess.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Data.Entities.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Data.DataAccess.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\ImgTec.Data.Entities.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Domain\obj\Debug\ImgTec.Domain.pdb

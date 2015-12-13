@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ImgTec.Data.Entities;
+using ImgTec.Domain.Integrations.Identity;
 
 namespace ImgTec.Domain.Handlers
 {

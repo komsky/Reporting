@@ -12,3 +12,17 @@ E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.xml
 E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
 E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\Reporting\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\ImgTec.Data.Entities.dll.config
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\ImgTec.Data.Entities.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\ImgTec.Data.Entities.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.csprojResolveAssemblyReference.cache
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.Entities\obj\Debug\ImgTec.Data.Entities.pdb

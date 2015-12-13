@@ -14,3 +14,19 @@ E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Ide
 E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\Reporting\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.DataAccess.dll.config
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.DataAccess.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.DataAccess.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.Entities.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\ImgTec.Data.Entities.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.csprojResolveAssemblyReference.cache
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Data.DataAccess\obj\Debug\ImgTec.Data.DataAccess.pdb

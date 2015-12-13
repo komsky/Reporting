@@ -40,3 +40,46 @@ E:\Reporting\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.Host.System
 E:\Reporting\Source\ImgTec\ImgTec.Web.Tests\obj\Debug\ImgTec.Web.Tests.csprojResolveAssemblyReference.cache
 E:\Reporting\Source\ImgTec\ImgTec.Web.Tests\obj\Debug\ImgTec.Web.Tests.dll
 E:\Reporting\Source\ImgTec\ImgTec.Web.Tests\obj\Debug\ImgTec.Web.Tests.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\ImgTec.Web.Tests.dll.config
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\ImgTec.Web.Tests.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\ImgTec.Web.Tests.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\ImgTec.Web.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Owin.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\EntityFramework.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\ImgTec.Web.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\EntityFramework.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\obj\Debug\ImgTec.Web.Tests.csprojResolveAssemblyReference.cache
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\obj\Debug\ImgTec.Web.Tests.dll
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\obj\Debug\ImgTec.Web.Tests.pdb
+E:\Moje Dokumenty\Visual Studio 2013\Projects\ImgTec\Source\ImgTec\ImgTec.Web.Tests\bin\Debug\T4MVCExtensions.dll
